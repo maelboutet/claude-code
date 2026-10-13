@@ -1,5 +1,6 @@
 pandas>=2.0
 numpy
 statsmodels
-yfinance
 matplotlib
+lseg-data      # Refinitiv / LSEG Workspace (ou l'ancien refinitiv-data)
+yfinance       # optionnel : --source yahoo
